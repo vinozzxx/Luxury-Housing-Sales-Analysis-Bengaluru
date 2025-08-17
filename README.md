@@ -7,6 +7,16 @@ This project analyzes luxury housing sales data in Bengaluru to provide insights
 
 The goal is to reveal actionable business insights for developers, investors, and market researchers to understand Bengaluru’s luxury housing market dynamics
 
+This project analyzes luxury housing sales data in Bengaluru to uncover insights into **market trends, pricing patterns, buyer demographics, and regional demand**.  
+It involves **data cleaning, preprocessing, and visualization** of property sales information to support data-driven decision-making in the real estate sector.  
+
+The goal is to reveal **actionable business insights** that can help **developers, investors, and market researchers** better understand Bengaluru’s luxury housing market dynamics.  
+The analysis highlights **quarterly booking trends, builder performance, buyer segmentation (Local vs NRI), and the impact of amenities and connectivity** on sales.  
+
+By combining **statistical techniques, visualization tools, and interactive dashboards**, the project delivers a comprehensive overview of how different factors influence housing sales.  
+Ultimately, it provides valuable intelligence for **strategic planning, investment opportunities, and competitive benchmarking** in the luxury real estate market.  
+
+
 ## table of contents
 - [project description](#project-description)
 - [dataset insight](#dataset-insight)
