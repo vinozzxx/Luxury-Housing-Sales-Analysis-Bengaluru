@@ -71,14 +71,20 @@ The dataset contains information about:
 
 ## Dash Board  
 
-- **Overview**  
+- **Overview**
+
+- 
   ![dashboard overview](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/1daa08a0a678fe31828bee56c32bd40953e8efc2/home.png)  
 
-- **Insights 1**  
+- **Insights 1**
+
+- 
   ![insights 1](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/7f06bfce27f3bab42d4f2813ee09934f09a8806f/insights.png)
   
-- **Insights 2**  
-  ![insights 2](add-image-link-insights2)  
+- **Insights 2**
+
+- 
+  ![insights 2](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/954c0c24edfdd07c4745a30b08ce4a6be07e048b/overview.png) 
  
 The dashboard includes the following insights:  
 
