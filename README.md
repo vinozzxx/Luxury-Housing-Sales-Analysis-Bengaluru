@@ -71,7 +71,7 @@ The dataset contains information about:
 
 ## dashboard  
 
-![luxury housing sales analysis – bengaluru dashboard screenshot](add-image-link-here)  
+![luxury housing sales analysis – bengaluru dashboard screenshot]([add-image-link-here](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/1daa08a0a678fe31828bee56c32bd40953e8efc2/home.png))  
 
 The dashboard includes the following insights:  
 
