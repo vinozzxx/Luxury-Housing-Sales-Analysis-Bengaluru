@@ -69,10 +69,17 @@ The dataset contains information about:
 - Locality infrastructure & traffic time insights
 - Dashboard with filters for quarter, micro-market, and configuration
 
-## dashboard  
+## Dash Board  
 
-![luxury housing sales analysis – bengaluru dashboard screenshot](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/1daa08a0a678fe31828bee56c32bd40953e8efc2/home.png) 
+- **Overview**  
+  ![dashboard overview](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/1daa08a0a678fe31828bee56c32bd40953e8efc2/home.png))  
 
+- **Insights 1**  
+  ![insights 1](add-image-link-insights1)  
+
+- **Insights 2**  
+  ![insights 2](add-image-link-insights2)  
+ 
 The dashboard includes the following insights:  
 
 - **Line Chart** – Quarterly bookings by micro-market  
