@@ -79,7 +79,7 @@ The dataset contains information about:
 - **Insights 1**
 
  
-  ![insights 1](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/7f06bfce27f3bab42d4f2813ee09934f09a8806f/insights.png)
+  ![insights 1](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/b4064e372a59d245f782039ce9ce7f17dfbeab7b/insights_1.png)
   
 - **Insights 2**
 
