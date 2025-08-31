@@ -19,7 +19,7 @@ Ultimately, it provides valuable intelligence for **strategic planning, investme
 
 ## table of contents
 - [project description](#project-description)
-- [vino](Dash_Board)
+- [vino](#dashboard)
 - [dataset insight](#dataset-insight)
 - [tech stack](#tech-stack)
 - [key features](#key-features)
