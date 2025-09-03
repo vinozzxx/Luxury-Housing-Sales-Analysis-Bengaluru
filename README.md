@@ -46,7 +46,7 @@ The dataset contains information about:
 - **Sales Channel** – Mode of sales (direct, broker, etc.)  
 - **Amenity Score** – Rating based on facilities provided  
 - **Connectivity Score** – Rating based on transport & accessibility  
-**[`^        back to top        ^`](#Project-Description)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
 
 ## tech stack  
 
@@ -86,7 +86,9 @@ The dataset contains information about:
  
   ![insights 2](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/380ad8020ff7f28ff58053684057d38b39aea74e/insights_2.png) 
 
- **[`^        back to top        ^`](#Project-Description)**
+
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
+
  
 The dashboard includes the following insights:  
 
@@ -110,7 +112,7 @@ The dashboard includes the following insights:
 └── 📄 requirements.txt          # Python dependencies
 ```
 
-**[`^        back to top        ^`](#Project-Description)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
 
 FAQs
 
