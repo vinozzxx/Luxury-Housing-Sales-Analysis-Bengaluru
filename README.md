@@ -47,7 +47,7 @@ The dataset contains information about:
 - **Amenity Score** – Rating based on facilities provided  
 - **Connectivity Score** – Rating based on transport & accessibility
 
-**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis-–-Bengaluru)**
 
 ## tech stack  
 
