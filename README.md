@@ -88,7 +88,7 @@ The dataset contains information about:
   ![insights 2](https://github.com/vinozzxx/Luxury-Housing-Sales-Analysis-Bengaluru/blob/380ad8020ff7f28ff58053684057d38b39aea74e/insights_2.png) 
 
 
-**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis-Bengaluru)**
 
  
 The dashboard includes the following insights:  
@@ -113,7 +113,7 @@ The dashboard includes the following insights:
 └── 📄 requirements.txt          # Python dependencies
 ```
 
-**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis–Bengaluru)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis-Bengaluru)**
 
 FAQs
 
@@ -145,7 +145,7 @@ open PowerBI file OR run Python notebook
 5. `Can I contribute?`
 Yes! Fork the repo, make your changes, and raise a pull request. All contributions are welcome.
 
-**[`^        back to top        ^`](#Project-Description)**
+**[`^        back to top        ^`](#Luxury-Housing-Sales-Analysis-Bengaluru)**
 
 
 
